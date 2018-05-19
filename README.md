@@ -1,2 +1,3 @@
-# my-ProfPortfolio
-This is my professional portfolio
+# Maria Tiganus's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
