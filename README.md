@@ -5,6 +5,9 @@ This is my professional portfolio. It uses AWS and ReactJS.
 # Technologies used
 
 Brew
-git
-github
-ssh
+Git and github
+CSS
+HTML
+Font Awesome
+Google fonts
+
